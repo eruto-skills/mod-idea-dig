@@ -15,7 +15,7 @@ argument-hint: "[鉱脈名 or 空欄=全ソース]"
 `minecraft-club/mod-selection/` の候補発掘を半自動で回すスキル。
 **機械的な発掘・分類・下書きはこのスキルが、基準の定義と最終採否は人間が持つ。**
 
-対象ディレクトリ: `c:/@projects/minecraft-club/mod-selection/`
+対象ディレクトリ: `c:/@projects/minecraft-club/mod-selection/`（作者環境の既定値。他環境では自分の MOD 選定ディレクトリに読み替える）
 
 ## 入力（毎回まず読む）
 
