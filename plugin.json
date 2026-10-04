@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mod-idea-dig",
+  "description": "Discover Minecraft mod and datapack candidates, remove duplicates, classify them against project criteria, and draft candidates for human selection.",
+  "author": {
+    "name": "Eruto Kondo",
+    "email": "erutobusiness@gmail.com"
+  },
+  "homepage": "https://github.com/eruto-skills/mod-idea-dig",
+  "repository": "https://github.com/eruto-skills/mod-idea-dig",
+  "license": "MIT",
+  "version": "1.1.0"
+}
